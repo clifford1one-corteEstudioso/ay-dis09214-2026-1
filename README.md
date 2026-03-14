@@ -1,6 +1,6 @@
-# ay-pensamiento-computacional
+# ay-dis-09214-2026-1
 
-Ayudantía ramo pensamiento computacional 2026-1 seccion5. Profesor Matías Serrano
+Ayudantía ramo pensamiento computacional, sección 5. Docente: Matías Serrano
 
 https://github.com/disenoUDP/dis09214-2026-1-seccion-5
 
